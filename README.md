@@ -20,6 +20,7 @@ Therefore, we decided to create a visualization that filtered the averages by ho
 https://app.flipsidecrypto.com/shareable/debt-timing-gas-fees-YRV2sD
 
 ![Screen Shot 2021-04-10 at 11 13 22 PM](https://user-images.githubusercontent.com/82302513/114294284-648ead80-9a52-11eb-8e81-babb283c929e.png)
+
 (Debt Timing and Gas Fees By Hour) 
 
 By filtering the averages by hour instead of days, it offers the users a better chance of pinpointing the best ranges or times throughout the day to borrow USD. This particular visualization in Flipside gave us a good chance to view some patterns, but we still had to manually scroll through the table to find the best hours, which is both tedious and inefficient. 
