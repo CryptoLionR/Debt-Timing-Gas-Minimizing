@@ -1,4 +1,4 @@
-# Debt Timing and Gas Fees Question?
+# Debt Timing and Gas Fees
 When is the best time to self-issue debt (Borrow alUSD) while minimizing gas fees?
 
 ## Minimizing Gas Fees
