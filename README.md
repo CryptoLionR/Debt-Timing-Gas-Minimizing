@@ -28,3 +28,5 @@ By filtering the averages by hour instead of days, it offers the users a better 
 ## Python Script 
 
 In order to evaluate the best hours, we grouped hour intervals to see when specific hours had lower gas fees than the average. This way, users can be given the information instead of manually scrolling through the interactive chart. 
+
+![eg-output.png](eg-output.png)
